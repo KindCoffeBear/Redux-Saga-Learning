@@ -1,0 +1,2 @@
+/* eslint-disable import/prefer-default-export */
+export const TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjUxYWRiMjZlZjYzYzVlZjA3ZmM2MjYiLCJpYXQiOjE2NTE0OTU0OTIsImV4cCI6MTY4MzAzMTQ5Mn0.b-20H9b35XzZrpRc0KSEvoQf9qQIs2PA-5KoO81tW9A'
